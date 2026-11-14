@@ -1,2 +1,3 @@
 # queuelite-smoke
-QueueLite end-to-end smoke test repo (disposable)
+
+Disposable repo for the QueueLite end-to-end smoke test.
